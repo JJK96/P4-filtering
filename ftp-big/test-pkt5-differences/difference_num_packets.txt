@@ -1,0 +1,140 @@
+num_packets:  538924
+P4: num_packets:  539509
+num_packets:  268353
+P4: num_packets:  268373
+num_packets:  137678
+P4: num_packets:  138802
+num_packets:  66716
+P4: num_packets:  66744
+num_packets:  55757
+P4: num_packets:  55816
+num_packets:  55259
+P4: num_packets:  55270
+num_packets:  39682
+P4: num_packets:  39725
+num_packets:  38025
+P4: num_packets:  38092
+num_packets:  35705
+P4: num_packets:  35745
+num_packets:  34688
+P4: num_packets:  34722
+num_packets:  34075
+P4: num_packets:  34137
+num_packets:  32881
+P4: num_packets:  32967
+num_packets:  32866
+P4: num_packets:  32873
+num_packets:  30925
+P4: num_packets:  30931
+num_packets:  30576
+P4: num_packets:  30662
+num_packets:  28023
+P4: num_packets:  28027
+num_packets:  27539
+P4: num_packets:  27594
+num_packets:  27432
+P4: num_packets:  27475
+num_packets:  24830
+P4: num_packets:  25034
+num_packets:  24533
+P4: num_packets:  24563
+num_packets:  24430
+P4: num_packets:  24432
+num_packets:  22341
+P4: num_packets:  22380
+num_packets:  20313
+P4: num_packets:  20347
+num_packets:  20233
+P4: num_packets:  20235
+num_packets:  20129
+P4: num_packets:  20131
+num_packets:  19304
+P4: num_packets:  19377
+num_packets:  15184
+P4: num_packets:  15454
+num_packets:  14673
+P4: num_packets:  14680
+num_packets:  14318
+P4: num_packets:  14371
+num_packets:  13802
+P4: num_packets:  13887
+num_packets:  13801
+P4: num_packets:  13806
+num_packets:  13454
+P4: num_packets:  13461
+num_packets:  10998
+P4: num_packets:  11026
+num_packets:  8685
+P4: num_packets:  8688
+num_packets:  8657
+P4: num_packets:  8661
+num_packets:  8595
+P4: num_packets:  8597
+num_packets:  8571
+P4: num_packets:  8573
+num_packets:  7729
+P4: num_packets:  7750
+num_packets:  7632
+P4: num_packets:  7690
+num_packets:  6825
+P4: num_packets:  6857
+num_packets:  5708
+P4: num_packets:  5711
+num_packets:  5624
+P4: num_packets:  5626
+num_packets:  5432
+P4: num_packets:  5738
+num_packets:  5196
+P4: num_packets:  5295
+num_packets:  3344
+P4: num_packets:  3751
+num_packets:  3269
+P4: num_packets:  3278
+num_packets:  2968
+P4: num_packets:  2980
+num_packets:  2751
+P4: num_packets:  2761
+num_packets:  2710
+P4: num_packets:  2729
+num_packets:  2085
+P4: num_packets:  2265
+num_packets:  1337
+P4: num_packets:  1368
+num_packets:  1034
+P4: num_packets:  1051
+num_packets:  591
+P4: num_packets:  594
+num_packets:  568
+P4: num_packets:  606
+num_packets:  477
+P4: num_packets:  486
+num_packets:  416
+P4: num_packets:  417
+num_packets:  152
+P4: num_packets:  154
+num_packets:  81
+P4: num_packets:  92
+num_packets:  70
+P4: num_packets:  72
+num_packets:  59
+P4: num_packets:  60
+num_packets:  50
+P4: num_packets:  62
+num_days:  1
+P4: num_days:  2
+num_packets:  45
+P4: num_packets:  74
+num_packets:  45
+P4: num_packets:  74
+num_packets:  38
+P4: num_packets:  89
+num_packets:  20
+P4: num_packets:  23
+num_days:  1
+P4: num_days:  2
+num_packets:  16
+P4: num_packets:  54
+num_packets:  15
+P4: num_packets:  23
+total_packets:  2632722
+total_packets_P4:  2637377
